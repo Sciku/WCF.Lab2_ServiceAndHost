@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ServiceModel;
 
-namespace WCF_Service
+namespace WCF_Service_BMI
 {
-    [ServiceContract(Namespace = "WCF_Service")]
+    [ServiceContract(Namespace = "WCF_Service_BMI")]
     public interface IBMI
     {
         [OperationContract]
@@ -19,7 +19,7 @@ namespace WCF_Service
         public decimal BMI(decimal height, decimal weight)
         {
             Console.WriteLine("Mottaget");
-            return weight / (height * height);
+            return weight / ((height / 100) * (height / 100));
         }
     }
 }

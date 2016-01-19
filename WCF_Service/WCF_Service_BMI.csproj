@@ -7,8 +7,8 @@
     <ProjectGuid>{695CDE87-C396-4023-83B2-1DAB5704F390}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WCF_Service</RootNamespace>
-    <AssemblyName>WCF_Service</AssemblyName>
+    <RootNamespace>WCF_Services</RootNamespace>
+    <AssemblyName>WCF_Services</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
