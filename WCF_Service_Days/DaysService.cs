@@ -19,7 +19,7 @@ namespace WCF_Service_Days
         public double DaysOld(int year, int month, int day)
         {
             Console.WriteLine("Mottaget");
-            var today = new DateTime();
+            var today = DateTime.Now;
             var birthday = new DateTime(year, month, day);
             var calc = (today.Date - birthday.Date).TotalDays;
             return calc;
