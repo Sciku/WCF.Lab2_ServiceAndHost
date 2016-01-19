@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WCF_Service
 {
-    public class Class1
+    class BMIServiceClass
     {
     }
 }
