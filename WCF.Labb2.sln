@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Labb2.ThousandDays", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Service_ThousandDays", "WCF_Service_1000\WCF_Service_ThousandDays.csproj", "{D9B6F128-AF8C-46D1-95B3-819289986DC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Service_Hobby", "WCF_Service_Hobby\WCF_Service_Hobby.csproj", "{B9A038E3-2128-4315-ADA0-167FAFB4C89A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Labb2.Hobby", "WCF.Labb2.Hobby\WCF.Labb2.Hobby.csproj", "{88F41E99-92D9-4B40-8772-D0D50B3C337A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{D9B6F128-AF8C-46D1-95B3-819289986DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9B6F128-AF8C-46D1-95B3-819289986DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9B6F128-AF8C-46D1-95B3-819289986DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A038E3-2128-4315-ADA0-167FAFB4C89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A038E3-2128-4315-ADA0-167FAFB4C89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A038E3-2128-4315-ADA0-167FAFB4C89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A038E3-2128-4315-ADA0-167FAFB4C89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F41E99-92D9-4B40-8772-D0D50B3C337A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F41E99-92D9-4B40-8772-D0D50B3C337A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F41E99-92D9-4B40-8772-D0D50B3C337A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F41E99-92D9-4B40-8772-D0D50B3C337A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
