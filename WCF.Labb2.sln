@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Service_Days", "WCF_Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Labb2.Days", "WCF.Labb2.Days\WCF.Labb2.Days.csproj", "{62667FEB-059C-410E-A654-34DABDC6A9EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Labb2.ThousandDays", "WCF.Labb2.1000\WCF.Labb2.ThousandDays.csproj", "{FE1D7DF2-ADAB-4D06-AD5A-26A4F40227AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Service_ThousandDays", "WCF_Service_1000\WCF_Service_ThousandDays.csproj", "{D9B6F128-AF8C-46D1-95B3-819289986DC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{62667FEB-059C-410E-A654-34DABDC6A9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62667FEB-059C-410E-A654-34DABDC6A9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62667FEB-059C-410E-A654-34DABDC6A9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1D7DF2-ADAB-4D06-AD5A-26A4F40227AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1D7DF2-ADAB-4D06-AD5A-26A4F40227AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1D7DF2-ADAB-4D06-AD5A-26A4F40227AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1D7DF2-ADAB-4D06-AD5A-26A4F40227AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B6F128-AF8C-46D1-95B3-819289986DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B6F128-AF8C-46D1-95B3-819289986DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B6F128-AF8C-46D1-95B3-819289986DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B6F128-AF8C-46D1-95B3-819289986DC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
